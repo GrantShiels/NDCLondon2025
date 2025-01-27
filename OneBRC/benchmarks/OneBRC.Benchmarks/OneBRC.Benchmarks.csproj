@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <PackageReference Include="benchmarkdotnet" Version="0.14.0" />
+    <PackageReference Include="BenchmarkDotNet.Diagnostics.Windows" Version="0.14.0" />
+    <PackageReference Include="CommunityToolkit.HighPerformance" Version="8.4.0" />
   </ItemGroup>
 
   <ItemGroup>
