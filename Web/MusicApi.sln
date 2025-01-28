@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{260B923E-12E6-4929-82DE-217D807637AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicApi", "src\MusicApi\MusicApi.csproj", "{4022D02B-E0D2-46B0-9EFB-4CA1A9BE1465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4022D02B-E0D2-46B0-9EFB-4CA1A9BE1465}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4022D02B-E0D2-46B0-9EFB-4CA1A9BE1465}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4022D02B-E0D2-46B0-9EFB-4CA1A9BE1465}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4022D02B-E0D2-46B0-9EFB-4CA1A9BE1465}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4022D02B-E0D2-46B0-9EFB-4CA1A9BE1465} = {260B923E-12E6-4929-82DE-217D807637AF}
+	EndGlobalSection
+EndGlobal
